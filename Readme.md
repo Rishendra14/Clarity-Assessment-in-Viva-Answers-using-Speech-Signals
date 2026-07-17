@@ -1,6 +1,7 @@
 🎙️ Clarity Assessment in Viva Answers using Speech Signals
-A Machine Learning and Speech Processing project for automatically assessing the clarity of students' viva responses using speech signal features.
 
+
+A Machine Learning and Speech Processing project for automatically assessing the clarity of students' viva responses using speech signal features.
 
 📖 Overview
 
@@ -144,31 +145,6 @@ For comparison, spectrogram images generated from audio signals were also used t
 | Visualization | Matplotlib, Seaborn |
 | Development | Jupyter Notebook, Google Colab |
 
-
-📁 Repository Structure
-
-
-Clarity-Assessment/
-│
-├── notebooks/
-│   ├── Feature Extraction
-│   ├── Machine Learning
-│   └── Deep Learning
-│
-├── feature_csv/
-│   ├── mfcc_mean_features.csv
-│   ├── lpc_mean_features.csv
-│   └── dct_mean_features.csv
-│
-├── deep_learning/
-│
-├── results/
-│
-├── images/
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
 
 
 
